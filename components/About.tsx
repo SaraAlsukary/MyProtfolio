@@ -41,7 +41,7 @@ const About = () => {
             >
                 <Image src={'/imgs/myself.jpg'} alt="Sara" width={120} height={120} className="rounded-full" />
                 <p className="text-gray-500 text-[16px] sm:text-[17px] leading-7 font-lora-regular text-center md:text-left max-w-full md:max-w-md">
-                    Web Developer specializing in modern, responsive web interfaces.
+                    Full-stack Web Developer specializing in modern, responsive web interfaces.
                     Passionate about clean code, usability, and continuous learning.
                     Focused on creating practical and efficient web solutions.
                 </p>
@@ -57,7 +57,7 @@ const About = () => {
                     <Link href='#contact'>Hire Me</Link>
                 </Button>
                 <Button className="bg-gray-800 border-gray-800 border-2 text-white w-full md:w-60">
-                    <Link href='https://drive.google.com/file/d/1y4UPcDodrE08piwF91spPAA6cqpwDyEd/view?usp=sharing'target="_blank" >Download CV</Link>
+                    <Link href='https://drive.google.com/file/d/1Dck4gTR5Zy-uXinlc-OLLWjHGYh7-nih/view?usp=sharing'target="_blank" >Download CV</Link>
                 </Button>
             </motion.div>
         </motion.section>

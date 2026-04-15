@@ -16,7 +16,7 @@ const Profile = () => {
             </p>
             <h5 className="font-poppins-bold text-gray-800  uppercase text-[16px] tracking-[3.5] mb-0">Job:</h5>
             <p className="text-gray-500 text-[17px] leading-7 font-lora-regular">
-                Front-end Developer | WordPress Developer
+                Full-stack Web Developer
             </p>
             <h5 className="font-poppins-bold text-gray-800  uppercase text-[16px] tracking-[3.5] mb-0">Email:</h5>
             <p className="text-gray-500 text-[17px] leading-7 font-lora-regular">
