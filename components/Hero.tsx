@@ -45,20 +45,19 @@ const Hero = () => {
                 </motion.h5>
                 <motion.h1
                     variants={fadeRightSlide}
-                    className="text-4xl md:text-[84px] font-poppins-bold"
+                    className="text-4xl md:text-[84px] font-poppins-bold text-center mx-auto w-50 md:w-full"
                 >
-                    I'm Sara Al-Sukary.
+                    I'm Sara <br className="block md:hidden" />
+                    Al-Sukary
                 </motion.h1>
                 <motion.p
                     variants={fadeBottomSlide}
 
                 >
-                    <span className="font-lora-regular text-[1.1rem] uppercase before:content-['|'] before:px-3.5">
-                        Web Developer
+                    <span className="font-lora-regular text-[1.1rem] uppercase ">
+                        Full-stack Web Developer
                     </span>
-                    <span className="font-lora-regular text-[1.1rem] before:content-['|'] after:content-['|'] before:px-3.5 after:px-3.5">
-                        Skilled in React, Next.js, Laravel & WordPress
-                    </span>
+            
                 </motion.p>
                 <motion.div
                     variants={fadeTopSlide}
