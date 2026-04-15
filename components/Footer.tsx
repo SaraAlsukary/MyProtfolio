@@ -13,7 +13,7 @@ const Footer = () => {
       variants={containerVariants}
       initial="hidden"
       animate={isInView ? "visible" : "exit"}
-      className="text-gray-500 bg-(--footer-color) py-10 px-10 md:px-30 flex flex-col-reverse md:flex-row justify-between items-center">
+      className="text-gray-500 bg-(--footer-color) py-10 px-5  md:px-30 flex flex-col-reverse md:flex-row justify-between items-center">
       <motion.div
         variants={fadeRightSlide}>
 
