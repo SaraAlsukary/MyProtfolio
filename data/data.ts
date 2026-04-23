@@ -1,5 +1,15 @@
 export const myProjects = [
-
+    {
+        id: 18,
+        title: '',
+        category: ["React"],
+        img: "/imgs/projects/18.png",
+        description:
+            "SAWA GROUP is a versatile corporate platform for a Tokyo-based company that serves as a strategic bridge between Japan and the Arab world. The website showcases a wide array of professional services designed to eliminate linguistic, cultural, and geographical barriers, facilitating seamless cultural and commercial exchange."
+        , techStack: ["React", "i18next"],
+        url: "https://sawagroup.jp/",
+        urlGit: "",
+    },
     {
         id: 16,
         title: "Arabesc Restaurant&Cafe",
