@@ -1,7 +1,7 @@
 export const myProjects = [
     {
         id: 18,
-        title: '',
+        title: 'Sawa Group',
         category: ["React"],
         img: "/imgs/projects/18.png",
         description:
