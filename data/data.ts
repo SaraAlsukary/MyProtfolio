@@ -11,6 +11,17 @@ export const myProjects = [
         urlGit: "",
     },
     {
+        id: 19,
+        title: 'ProjectsVU',
+        category: ["Fullstack", "React", "Laravel"],
+        img: "/imgs/projects/svu.png",
+        description:
+            "An integrated academic services platform dedicated to Syrian Virtual University (SVU) students. This digital hub streamlines the educational experience by providing a centralized repository for academic summaries uploaded by professors, previous exam papers, and comprehensive course materials. The platform also features 'Rilo', an intelligent AI assistant designed to support students with their projects and academic inquiries, alongside a dedicated module to facilitate the university enrollment and preference process (Mufadala).",
+        techStack: ["React", "Laravel", "Typescript", "Tailwind CSS", "Zod", "React-Hook-Form", 'React-Query'],
+        url: "https://projectsvu.lat/",
+        urlGit: "",
+    },
+    {
         id: 16,
         title: "Arabesc Restaurant&Cafe",
         category: ["WordPress"],
@@ -72,30 +83,6 @@ export const myProjects = [
         ],
         url: "https://blogger-mu-two.vercel.app",
         urlGit: "https://github.com/SaraAlsukary/Blogger",
-    },
-
-    {
-        id: 4,
-        title: "Glamz",
-        category: ["WordPress"],
-        img: "/imgs/projects/4.png",
-        description:
-            "An e-commerce website built with WooCommerce, providing a complete online shopping experience for fashion products.",
-        techStack: ["WordPress", "WooCommerce", "Elementor"],
-        url: "https://web-fashion.infinityfreeapp.com",
-        urlGit: "",
-    },
-
-    {
-        id: 5,
-        title: "Zenix",
-        category: ["WordPress"],
-        img: "/imgs/projects/5.png",
-        description:
-            "A corporate portfolio website designed to present a digital agency’s services, projects, and brand identity.",
-        techStack: ["WordPress", "Elementor"],
-        url: "https://digits-agency.infinityfreeapp.com",
-        urlGit: "",
     },
 
     {
@@ -198,18 +185,6 @@ export const myProjects = [
         techStack: ["Laravel", "Blade", "Tailwind CSS"],
         url: "",
         urlGit: "https://github.com/SaraAlsukary/task-management-package",
-    },
-
-    {
-        id: 13,
-        title: "Bloggy",
-        category: ["WordPress"],
-        img: "/imgs/projects/13.png",
-        description:
-            "A custom WordPress theme developed specifically for blogging websites with a clean and modern layout.",
-        techStack: ["PHP", "WordPress"],
-        url: "https://blog-web.infinityfreeapp.com/",
-        urlGit: "https://github.com/SaraAlsukary/WordPress-Theme",
     },
 
     {
